@@ -1,4 +1,4 @@
-# Guvenlik
+# Security
 
 ### HomePage
 <img src="anasayfa.JPG" />
@@ -13,11 +13,11 @@
 ## Installation
 
 ```
-$ git clone https://github.com/SedatBasaran14/guvenlik.git
-$ cd guvenlik
+$ git clone https://github.com/SedatBasaran14/Security.git
+$ cd Security
 $ npm install
 $ npm start
 ```
 
-#### Guvenlik
+#### Security
 I created the register and login pages on this site. In addition to these, I used the feature of logging in with google and storing passwords in the database in a more secure way. I used MongoDB as a database.
